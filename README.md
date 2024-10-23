@@ -123,4 +123,4 @@ A comprehensive machine management system built with Laravel and Bootstrap.
 - Monitor logs
 
 ### Support
-For support, please contact support@example.com
+Dont contact me, this a one off project.
